@@ -4,7 +4,7 @@
   "description": "A starter template repo for 'front-end' students",
   "main": "index.js",
   "scripts": {
-    "serve": "browser-sync start --server --files '*.html, *.css, *.js'"
+    "start": "browser-sync start --server --files '*.html, *.css, *.js'"
   },
   "keywords": [
     "html-css-js",
