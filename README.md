@@ -12,6 +12,7 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 - [`husky`](https://www.npmjs.com/package/husky) will check over code quality with the linters b4 there is a successful `commit`.
 - [`webpack`](https://www.npmjs.com/package/webpack) to allow the use of modern [EcmaScript Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 - Various VS Code 'settings' and 'extensions.' Look in the bottom right when you open this up in VS Code to install them.
+- For 'nice' fonts, I recommend using [Victor Mono](https://rubjo.github.io/victor-mono/).
 - [Kite 🪁](https://www.kite.com/javascript/) is also included. I personally recommend it, but it's certainly not compulsory to set this up.
 - Probably some other stuff I'm 4getting about for now 🤷🏽‍♂️
 
