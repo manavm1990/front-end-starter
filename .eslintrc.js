@@ -11,6 +11,7 @@ module.exports = {
   rules: {
     "array-callback-return": "warn",
     "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+    "no-unused-expressions": ["error", { allowShortCircuit: true }],
     "no-unused-vars": "warn",
   },
 };
