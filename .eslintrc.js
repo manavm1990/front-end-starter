@@ -10,9 +10,9 @@ module.exports = {
   },
   rules: {
     "array-callback-return": "warn",
-    "no-param-reassign": "warn",
-    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
-    "no-unused-expressions": ["error", { allowShortCircuit: true }],
+    "import/extensions": "warn",
+    "import/prefer-default-export": "warn",
+    "no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
     "no-unused-vars": "warn",
   },
 };
