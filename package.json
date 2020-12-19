@@ -1,6 +1,7 @@
 {
   "name": "front-end-starter",
   "version": "1.1.0",
+  "private": true,
   "description": "A starter template repo for 'front-end' students",
   "main": "index.js",
   "scripts": {
