@@ -28,6 +28,7 @@
     "streetsidesoftware.code-spell-checker",
     "stylelint.vscode-stylelint",
     "tyriar.sort-lines",
-    "visualstudioexptteam.vscodeintellicode"
+    "visualstudioexptteam.vscodeintellicode",
+    "webben.browserslist"
   ]
 }
