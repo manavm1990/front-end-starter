@@ -1,5 +1,8 @@
 {
   "better-comments.highlightPlainText": true,
+  "[css]": {
+    "editor.foldingStrategy": "indentation"
+  },
   "css.validate": false,
   "editor.accessibilitySupport": "off",
   "editor.codeActionsOnSave": {
@@ -16,6 +19,9 @@
   "editor.scrollBeyondLastColumn": 2,
   "editor.smoothScrolling": true,
   "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  },
   "editor.wordWrap": "wordWrapColumn",
   "files.autoSave": "onFocusChange",
   "files.eol": "\n",
