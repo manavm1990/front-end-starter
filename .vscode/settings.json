@@ -30,7 +30,7 @@
   "prettier.requireConfig": true,
   "stylelint.enable": true,
   "terminal.integrated.fontFamily": "'Inconsolata', monospace",
-  "workbench.colorTheme": "Material Theme",
+  "workbench.colorTheme": "Crucial Human Theme",
   "workbench.enableExperiments": false,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.view.alwaysShowHeaderActions": true,
