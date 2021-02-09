@@ -15,5 +15,6 @@ module.exports = {
     "no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
     "no-unused-expressions": ["error", { allowShortCircuit: true }],
     "no-unused-vars": "warn",
+    "prefer-arrow-callback": "warn
   },
 };
