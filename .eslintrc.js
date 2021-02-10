@@ -10,6 +10,7 @@ module.exports = {
   },
   rules: {
     "array-callback-return": "warn",
+    "arrow-body-style": 1,
     "import/extensions": 0,
     "import/prefer-default-export": "warn",
     "no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
