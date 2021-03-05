@@ -33,7 +33,7 @@
   "terminal.integrated.fontFamily": "'Inconsolata', monospace",
   "workbench.colorTheme": "Crucial Human Theme",
   "workbench.enableExperiments": false,
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "eq-material-theme-icons-darker",
   "workbench.view.alwaysShowHeaderActions": true,
   "editor.parameterHints.enabled": false,
   "ponicode.testSettings.testLocation.locationType": "Same folder as source file",
