@@ -27,6 +27,7 @@
   "files.eol": "\n",
   "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
+  "kite.codefinder.enableLineDecoration": false,
   "prettier.requireConfig": true,
   "stylelint.enable": true,
   "terminal.integrated.fontFamily": "'Inconsolata', monospace",
