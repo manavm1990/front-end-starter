@@ -27,6 +27,7 @@
     "stylelint.vscode-stylelint",
     "tyriar.sort-lines",
     "visualstudioexptteam.vscodeintellicode",
+    "vivaxy.vscode-conventional-commits",
     "webben.browserslist"
   ]
 }
