@@ -12,6 +12,7 @@
     "formulahendry.auto-rename-tag",
     "github.vscode-pull-request-github",
     "kisstkondoros.vscode-gutter-preview",
+    "lostintangent.vsls-whiteboard",
     "meganrogge.template-string-converter",
     "mkaufman.htmlhint",
     "msjsdiag.debugger-for-chrome",
@@ -24,9 +25,11 @@
     "stkb.rewrap",
     "streetsidesoftware.code-spell-checker",
     "stylelint.vscode-stylelint",
+    "thiscodeworks.savecode",
     "tyriar.sort-lines",
     "visualstudioexptteam.vscodeintellicode",
     "vsls-contrib.codetour",
+    "vivaxy.vscode-conventional-commits",
     "webben.browserslist"
   ]
 }
