@@ -26,6 +26,7 @@
     "stylelint.vscode-stylelint",
     "tyriar.sort-lines",
     "visualstudioexptteam.vscodeintellicode",
+    "vsls-contrib.codetour",
     "webben.browserslist"
   ]
 }
