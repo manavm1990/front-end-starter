@@ -1,0 +1,77 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Front End Starter Overview",
+  "steps": [
+    {
+      "file": "index.html",
+      "description": "Normalize...normalizes the default browser styles and adds a few sensible CSS defaults.",
+      "line": 9
+    },
+    {
+      "file": "index.html",
+      "description": "You should update this title. For example: `My App | Home` - where `Home` might be the name of your `h1`.",
+      "line": 14
+    },
+    {
+      "file": "index.html",
+      "description": "This activates our custom JS. `type=\"module\"` allows us to use modern ES6 modules. [Here's some basic info on those,](https://exploringjs.com/es6/ch_modules.html#sec_basics-of-es6-modules) but don't worry about trying to understand all the things right away.",
+      "line": 18
+    },
+    {
+      "file": "style.css",
+      "description": "These are standard fonts that work well as defaults for all of the different OSs.",
+      "line": 2
+    },
+    {
+      "file": ".vscode/settings.json",
+      "description": "You should install one of these fonts. [Victor Mono](https://rubjo.github.io/victor-mono/) is a cinch to install on Mac with `brew`. The other ones can be downloaded from Google Fonts, etc.",
+      "line": 14
+    },
+    {
+      "file": "style.css",
+      "description": "This is a good default starting font size. It means that you can use `rem`s (or maybe `ems`) to scale up your fonts. If you're unclear on CSS Units: [👂🏾](https://syntax.fm/show/107/hasty-treat-css-units). You can use [this site](https://type-scale.com/) to test out different scalings (instead of being random).",
+      "line": 4
+    },
+    {
+      "file": "package.json",
+      "description": "Change this to a more proper name for your project. **But,** follow the convention of all lower kebabcase.",
+      "line": 2
+    },
+    {
+      "file": "package.json",
+      "description": "Change this",
+      "line": 5
+    },
+    {
+      "file": "package.json",
+      "description": "`npm start` from your terminal will fire up [Browser Sync](https://browsersync.io/)",
+      "line": 8
+    },
+    {
+      "file": "package.json",
+      "description": "Update this",
+      "line": 15
+    },
+    {
+      "file": "package.json",
+      "description": "These are installed (via `npm i`) for development but not for live deployment.",
+      "line": 17
+    },
+    {
+      "file": "package.json",
+      "description": "Whenever we `commit`, `husky` will double check our code to make sure that it's linted and prett-ified.",
+      "line": 31
+    },
+    {
+      "file": ".eslintrc.js",
+      "description": "You can edit these **after you get some more experience.** **Do not** just go turning these off just to get around them! 🙅🏾‍♂️ Even then, you should probably only turn them down to a `\"warn\"` or `1` - not disable them.",
+      "line": 11
+    },
+    {
+      "file": "index.html",
+      "description": "Ur `h1` should resemble your title. **There should only be one `<h1>` per page.** [Review these other guidelines too](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements#usage_notes).\n\n",
+      "line": 17
+    }
+  ],
+  "ref": "master"
+}
