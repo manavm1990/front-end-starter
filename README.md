@@ -1,9 +1,5 @@
 # Front-End Starter
 
-**Try the CodeTour 🗺️.** [More info here.](https://github.com/microsoft/codetour#starting-tours)
-
-To remove the tour (no need for it after you've gone through it and/or when starting a new app) - just delete the `.tours` directory.
-
 Use of this starter template assumes that you have a 'complete dev environment' setup - a terminal, Node, VS Code, at least. If not, you may want to [start here.](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-for-JS-02a4e9f4a30043d3a8e7d109be3448f4)
 
 ---
