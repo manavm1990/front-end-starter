@@ -8,5 +8,5 @@ module.exports = {
     ecmaVersion: 12,
     sourceType: 'module',
   },
-  rules: {'no-unused-vars': 1},
+  rules: {'no-console: 1', 'no-unused-vars': 1},
 };
