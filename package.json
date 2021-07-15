@@ -5,8 +5,7 @@
   "description": "A starter template repo for 'front-end' students",
   "main": "index.js",
   "scripts": {
-    "start": "browser-sync start --server --files '**/*.html, **/*.css, **/**.js'",
-    "prepare": "husky install"
+    "start": "browser-sync start --server --files '**/*.html, **/*.css, **/**.js'"
   },
   "keywords": [
     "html-css-js",
@@ -19,17 +18,10 @@
     "eslint": "^7.29.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-config-xo": "^0.37.0",
-    "husky": "^6.0.0",
-    "lint-staged": "^11.0.0",
     "prettier": "^2.3.2",
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^22.0.0",
     "stylelint-order": "^4.1.0"
-  },
-  "lint-staged": {
-    "*.js": "eslint --cache --fix",
-    "*.css": "stylelint --fix",
-    "*.{js,css}": "prettier --write"
   }
 }
